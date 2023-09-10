@@ -1,0 +1,13 @@
+Hotfix
+    - Lowered the health x) 
+
+2021-08-10
+    - Added starting scenario
+    - Added Player faction for kobolds
+    - increased health
+    - Altered, added and corrected descriptions : kudos d9
+	
+2023-09-01
+	- Updated to 1.4
+	- Fixed smeltable kobold bones glitch
+	- Added horn color variants
