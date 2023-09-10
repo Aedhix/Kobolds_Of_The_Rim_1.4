@@ -82,11 +82,12 @@
                 </specialShadowData>
                 <ageGenerationCurve>
                     <points>
-                        <li>(4,0)</li>
-                        <li>(6,40)</li>
-                        <li>(12,100)</li>
-                        <li>(18,20)</li>
-                        <li>(25,0)</li>
+                        <li>(7,0)</li>
+                        <li>(17,40)</li>
+                        <li>(30,100)</li>
+                        <li>(50,20)</li>
+                        <li>(60,5)</li>
+                        <li>(80,0)</li>
                     </points>
                 </ageGenerationCurve>
                 <hediffGiverSets>
