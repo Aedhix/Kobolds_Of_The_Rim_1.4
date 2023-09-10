@@ -6,7 +6,7 @@
             <li>1.4</li>
         </supportedVersions>
         <packageId>Goob.Kobolds</packageId>
-        <description>Kobolds of the Rim has been updated to RimWorld 1.4. This version doesn't have Biotech genes and things like that (as far as I'm aware), but you should be able to use KotR and Biotech together. Let me know if you have any problems with the mod. -- Aedhix\n\nAfter stealing a spaceship from a group of travelers, they have managed to crash on this planet. They're fiesty and not afraid to fight you for their survival. 
+        <description>Version 2023.9.10.0: Rebalanced stats (kobolds research faster, have better medical tend quality, move slower, resist less toxic/psychic, etcetera)\n\nKobolds of the Rim has been updated to RimWorld 1.4. This version doesn't have Biotech genes and things like that (as far as I'm aware), but you should be able to use KotR and Biotech together. Let me know if you have any problems with the mod. -- Aedhix\n\nAfter stealing a spaceship from a group of travelers, they have managed to crash on this planet. They're fiesty and not afraid to fight you for their survival. 
         </description>
         <modDependencies>
             <li>
