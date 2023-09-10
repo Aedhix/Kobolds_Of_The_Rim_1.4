@@ -34,7 +34,7 @@
                 <thinkTreeConstant>HumanlikeConstant</thinkTreeConstant>
                 <intelligence>Humanlike</intelligence>
                 <makesFootprints>true</makesFootprints>
-                <lifeExpectancy>30</lifeExpectancy>
+                <lifeExpectancy>60</lifeExpectancy>
                 <leatherDef>Leather_Kobold</leatherDef>
                 <nameCategory>HumanStandard</nameCategory>
                 <body>Kobold</body>
@@ -66,11 +66,11 @@
                     </li>
                     <li>
                         <def>HumanlikeTeenager</def>
-                        <minAge>3</minAge>
+                        <minAge>7</minAge>
                     </li>
                     <li>
                         <def>HumanlikeAdult</def>
-                        <minAge>6</minAge>
+                        <minAge>14</minAge>
                     </li>
                 </lifeStageAges>
                 <soundMeleeHitPawn>Pawn_Melee_Punch_HitPawn</soundMeleeHitPawn>
