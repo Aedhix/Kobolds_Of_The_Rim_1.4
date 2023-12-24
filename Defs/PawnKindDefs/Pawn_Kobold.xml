@@ -6,6 +6,13 @@
             <labelPlural>kobolds</labelPlural>
             <maxGenerationAge>80</maxGenerationAge>
             <defaultFactionType>LTS_KoboldTribe</defaultFactionType>
+            <backstoryFiltersOverride>
+                <li>
+                    <categories>
+                        <li>KoboldBackstory</li>
+                    </categories>
+                </li>
+            </backstoryFiltersOverride>
             <invNutrition>2.55</invNutrition>
             <apparelMoney>200~400</apparelMoney>
             <weaponMoney>200~400</weaponMoney>

@@ -35,13 +35,15 @@
                 <Structure_TheistAbstract MayRequire="Ludeon.RimWorld.Ideology">1</Structure_TheistAbstract>
                 <Structure_Archist MayRequire="Ludeon.RimWorld.Ideology">1</Structure_Archist>
             </structureMemeWeights>
-            <backstoryFilters>
+            <!-- Commented out to test if humans still get kobold backstories
+                
+                <backstoryFilters>
                 <li>
                     <categories>
                         <li>KoboldBackstory</li>
                     </categories>
                 </li>
-            </backstoryFilters>
+            </backstoryFilters> -->
             <caravanTraderKinds>
                 <li>Caravan_Neolithic_BulkGoods</li>
                 <li>Caravan_Neolithic_WarMerchant</li>
@@ -136,6 +138,7 @@
             <allowedCultures>
                 <li>KoboldCulture</li>
             </allowedCultures>
+            <!--
             <backstoryFilters>
                 <li>
                     <categories>
@@ -143,6 +146,7 @@
                     </categories>
                 </li>
             </backstoryFilters>
+            -->
             <apparelStuffFilter>
                 <thingDefs>
                     <li>Cloth</li>
